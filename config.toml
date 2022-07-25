@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "http://metaetica.github.io/"
 languageCode = "en-us"
 title = "Metaética"
 theme = "minimal"
