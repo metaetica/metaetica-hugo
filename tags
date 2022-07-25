@@ -1,0 +1,211 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/d5bcb52b/
+.content	themes/minimal/static/css/main.css	/^.content {$/;"	c
+.copyright	themes/minimal/static/css/main.css	/^.copyright {$/;"	c
+.intro	themes/minimal/static/css/main.css	/^.intro {$/;"	c
+.intro > h1	themes/minimal/static/css/main.css	/^.intro > h1 {$/;"	s
+.intro > h2	themes/minimal/static/css/main.css	/^.intro > h2 {$/;"	s
+.item	themes/minimal/static/css/main.css	/^.item {$/;"	c
+.item-tag	themes/minimal/static/css/main.css	/^.item-tag {$/;"	c
+.navbar-icon	themes/minimal/static/css/main.css	/^.navbar-icon {$/;"	c
+.navbar.navbar-default	themes/minimal/static/css/main.css	/^.navbar.navbar-default {$/;"	c
+.pages	themes/minimal/static/css/main.css	/^.pages {$/;"	c
+.pages-icon	themes/minimal/static/css/main.css	/^.pages-icon {$/;"	c
+.profile	themes/minimal/static/css/main.css	/^.profile {$/;"	c
+A practical example in a diff	content/post/migrate-from-jekyll.md	/^## A practical example in a diff$/;"	s
+A practical example in a diff	themes/minimal/exampleSite/content/post/migrate-from-jekyll.md	/^## A practical example in a diff$/;"	s
+Add Content to the Homepage	content/post/creating-a-new-theme.md	/^### Add Content to the Homepage$/;"	S
+Add Content to the Homepage	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Add Content to the Homepage$/;"	S
+Add Content to the Posts	content/post/creating-a-new-theme.md	/^### Add Content to the Posts$/;"	S
+Add Content to the Posts	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Add Content to the Posts$/;"	S
+Add “Date Published” to Posts	content/post/creating-a-new-theme.md	/^## Add “Date Published” to Posts$/;"	s
+Add “Date Published” to Posts	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^## Add “Date Published” to Posts$/;"	s
+Add “Date Published” to the Template	content/post/creating-a-new-theme.md	/^### Add “Date Published” to the Template$/;"	S
+Add “Date Published” to the Template	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Add “Date Published” to the Template$/;"	S
+Basic Syntax	content/post/goisforlovers.md	/^## Basic Syntax$/;"	s
+Basic Syntax	themes/minimal/exampleSite/content/post/goisforlovers.md	/^## Basic Syntax$/;"	s
+Build a "Dynamic" Home Page	content/post/creating-a-new-theme.md	/^### Build a "Dynamic" Home Page$/;"	S
+Build a "Dynamic" Home Page	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Build a "Dynamic" Home Page$/;"	S
+Clean up	content/post/migrate-from-jekyll.md	/^### Clean up$/;"	S
+Clean up	themes/minimal/exampleSite/content/post/migrate-from-jekyll.md	/^### Clean up$/;"	S
+Conditionals	content/post/goisforlovers.md	/^### Conditionals$/;"	S
+Conditionals	themes/minimal/exampleSite/content/post/goisforlovers.md	/^### Conditionals$/;"	S
+Configuration	themes/minimal/README.md	/^## Configuration$/;"	s
+Content	content/post/creating-a-new-theme.md	/^### Content$/;"	S
+Content	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Content$/;"	S
+Context (aka. the dot)	content/post/goisforlovers.md	/^## Context (aka. the dot)$/;"	s
+Context (aka. the dot)	themes/minimal/exampleSite/content/post/goisforlovers.md	/^## Context (aka. the dot)$/;"	s
+Convert Jekyll plugins to Hugo shortcodes	content/post/migrate-from-jekyll.md	/^## Convert Jekyll plugins to Hugo shortcodes$/;"	s
+Convert Jekyll plugins to Hugo shortcodes	themes/minimal/exampleSite/content/post/migrate-from-jekyll.md	/^## Convert Jekyll plugins to Hugo shortcodes$/;"	s
+Convert Jekyll templates to Hugo templates	content/post/migrate-from-jekyll.md	/^## Convert Jekyll templates to Hugo templates$/;"	s
+Convert Jekyll templates to Hugo templates	themes/minimal/exampleSite/content/post/migrate-from-jekyll.md	/^## Convert Jekyll templates to Hugo templates$/;"	s
+Create New Posts	content/post/creating-a-new-theme.md	/^#### Create New Posts$/;"	t
+Create New Posts	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^#### Create New Posts$/;"	t
+Create a New Site	content/post/creating-a-new-theme.md	/^## Create a New Site$/;"	s
+Create a New Site	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^## Create a New Site$/;"	s
+Create a New Theme	content/post/creating-a-new-theme.md	/^## Create a New Theme$/;"	s
+Create a New Theme	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^## Create a New Theme$/;"	s
+Create a Post Listing	content/post/creating-a-new-theme.md	/^### Create a Post Listing$/;"	S
+Create a Post Listing	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Create a Post Listing$/;"	S
+Create a Skeleton	content/post/creating-a-new-theme.md	/^### Create a Skeleton$/;"	S
+Create a Skeleton	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Create a Skeleton$/;"	S
+Create the Header and Footer Partials	content/post/creating-a-new-theme.md	/^### Create the Header and Footer Partials$/;"	S
+Create the Header and Footer Partials	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Create the Header and Footer Partials$/;"	S
+Create your Hugo configuration file	content/post/migrate-from-jekyll.md	/^## Create your Hugo configuration file$/;"	s
+Create your Hugo configuration file	themes/minimal/exampleSite/content/post/migrate-from-jekyll.md	/^## Create your Hugo configuration file$/;"	s
+Creating Top Level Pages	content/post/creating-a-new-theme.md	/^## Creating Top Level Pages$/;"	s
+Creating Top Level Pages	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^## Creating Top Level Pages$/;"	s
+Development Commands	content/post/creating-a-new-theme.md	/^### Development Commands$/;"	S
+Development Commands	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Development Commands$/;"	S
+Don't Repeat Yourself	content/post/creating-a-new-theme.md	/^### Don't Repeat Yourself$/;"	S
+Don't Repeat Yourself	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Don't Repeat Yourself$/;"	S
+Features	themes/minimal/README.md	/^## Features$/;"	s
+Finishing touches	content/post/migrate-from-jekyll.md	/^## Finishing touches$/;"	s
+Finishing touches	themes/minimal/exampleSite/content/post/migrate-from-jekyll.md	/^## Finishing touches$/;"	s
+Fix content	content/post/migrate-from-jekyll.md	/^### Fix content$/;"	S
+Fix content	themes/minimal/exampleSite/content/post/migrate-from-jekyll.md	/^### Fix content$/;"	S
+Fonts	themes/minimal/README.md	/^### Fonts$/;"	S
+Front Matter	content/post/creating-a-new-theme.md	/^#### Front Matter$/;"	t
+Front Matter	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^#### Front Matter$/;"	t
+Functions	content/post/goisforlovers.md	/^## Functions$/;"	s
+Functions	themes/minimal/exampleSite/content/post/goisforlovers.md	/^## Functions$/;"	s
+Generate the HTML For the New Site	content/post/creating-a-new-theme.md	/^### Generate the HTML For the New Site$/;"	S
+Generate the HTML For the New Site	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Generate the HTML For the New Site$/;"	S
+Generate the Site	content/post/creating-a-new-theme.md	/^### Generate the Site$/;"	S
+Generate the Site	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Generate the Site$/;"	S
+Hugo Parameters	content/post/goisforlovers.md	/^# Hugo Parameters$/;"	c
+Hugo Parameters	themes/minimal/exampleSite/content/post/goisforlovers.md	/^# Hugo Parameters$/;"	c
+Hugo's Watch Option	content/post/creating-a-new-theme.md	/^### Hugo's Watch Option$/;"	S
+Hugo's Watch Option	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Hugo's Watch Option$/;"	S
+Implementation	content/post/migrate-from-jekyll.md	/^### Implementation$/;"	S
+Implementation	themes/minimal/exampleSite/content/post/migrate-from-jekyll.md	/^### Implementation$/;"	S
+Includes	content/post/goisforlovers.md	/^## Includes$/;"	s
+Includes	themes/minimal/exampleSite/content/post/goisforlovers.md	/^## Includes$/;"	s
+Installation	themes/minimal/README.md	/^## Installation$/;"	s
+Introduction	content/post/creating-a-new-theme.md	/^## Introduction$/;"	s
+Introduction	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^## Introduction$/;"	s
+Introduction to Go Templates	content/post/goisforlovers.md	/^## Introduction to Go Templates$/;"	s
+Introduction to Go Templates	themes/minimal/exampleSite/content/post/goisforlovers.md	/^## Introduction to Go Templates$/;"	s
+Iteration	content/post/goisforlovers.md	/^### Iteration$/;"	S
+Iteration	themes/minimal/exampleSite/content/post/goisforlovers.md	/^### Iteration$/;"	S
+Linking to Content	content/post/creating-a-new-theme.md	/^### Linking to Content$/;"	S
+Linking to Content	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Linking to Content$/;"	S
+List Template	content/post/creating-a-new-theme.md	/^#### List Template$/;"	t
+List Template	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^#### List Template$/;"	t
+List and Single Templates	content/post/creating-a-new-theme.md	/^### List and Single Templates$/;"	S
+List and Single Templates	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### List and Single Templates$/;"	S
+Live Reload	content/post/creating-a-new-theme.md	/^### Live Reload$/;"	S
+Live Reload	content/post/creating-a-new-theme.md	/^#### Live Reload$/;"	t
+Live Reload	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Live Reload$/;"	S
+Live Reload	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^#### Live Reload$/;"	t
+Logic	content/post/goisforlovers.md	/^## Logic$/;"	s
+Logic	themes/minimal/exampleSite/content/post/goisforlovers.md	/^## Logic$/;"	s
+Make a Static Home Page	content/post/creating-a-new-theme.md	/^### Make a Static Home Page$/;"	S
+Make a Static Home Page	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Make a Static Home Page$/;"	S
+Markdown	content/post/creating-a-new-theme.md	/^#### Markdown$/;"	t
+Markdown	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^#### Markdown$/;"	t
+Minimal	themes/minimal/README.md	/^# Minimal$/;"	c
+Move static content to `static`	content/post/migrate-from-jekyll.md	/^## Move static content to `static`$/;"	s
+Move static content to `static`	themes/minimal/exampleSite/content/post/migrate-from-jekyll.md	/^## Move static content to `static`$/;"	s
+Nothing here	themes/minimal/layouts/404.html	/^        <h2>Nothing here<\/h2>$/;"	i
+Partial Template	content/post/creating-a-new-theme.md	/^#### Partial Template$/;"	t
+Partial Template	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^#### Partial Template$/;"	t
+Pipes	content/post/goisforlovers.md	/^## Pipes$/;"	s
+Pipes	themes/minimal/exampleSite/content/post/goisforlovers.md	/^## Pipes$/;"	s
+Purge the public/ Directory	content/post/creating-a-new-theme.md	/^### Purge the public\/ Directory$/;"	S
+Purge the public/ Directory	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Purge the public\/ Directory$/;"	S
+Set your configuration publish folder to `_site`	content/post/migrate-from-jekyll.md	/^## Set your configuration publish folder to `_site`$/;"	s
+Set your configuration publish folder to `_site`	themes/minimal/exampleSite/content/post/migrate-from-jekyll.md	/^## Set your configuration publish folder to `_site`$/;"	s
+Sharing Templates	content/post/creating-a-new-theme.md	/^## Sharing Templates$/;"	s
+Sharing Templates	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^## Sharing Templates$/;"	s
+Single Template	content/post/creating-a-new-theme.md	/^#### Single Template$/;"	t
+Single Template	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^#### Single Template$/;"	t
+Site Configuration File	content/post/creating-a-new-theme.md	/^### Site Configuration File$/;"	S
+Site Configuration File	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Site Configuration File$/;"	S
+Skins	content/post/creating-a-new-theme.md	/^### Skins$/;"	S
+Skins	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Skins$/;"	S
+Some Definitions	content/post/creating-a-new-theme.md	/^## Some Definitions$/;"	s
+Some Definitions	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^## Some Definitions$/;"	s
+Step 1. Install Hugo	content/post/hugoisforlovers.md	/^## Step 1. Install Hugo$/;"	s
+Step 1. Install Hugo	themes/minimal/exampleSite/content/post/hugoisforlovers.md	/^## Step 1. Install Hugo$/;"	s
+Step 2. Build the Docs	content/post/hugoisforlovers.md	/^## Step 2. Build the Docs$/;"	s
+Step 2. Build the Docs	themes/minimal/exampleSite/content/post/hugoisforlovers.md	/^## Step 2. Build the Docs$/;"	s
+Step 3. Change the docs site	content/post/hugoisforlovers.md	/^## Step 3. Change the docs site$/;"	s
+Step 3. Change the docs site	themes/minimal/exampleSite/content/post/hugoisforlovers.md	/^## Step 3. Change the docs site$/;"	s
+Step 4. Have fun	content/post/hugoisforlovers.md	/^## Step 4. Have fun$/;"	s
+Step 4. Have fun	themes/minimal/exampleSite/content/post/hugoisforlovers.md	/^## Step 4. Have fun$/;"	s
+Syntax highlighting	themes/minimal/README.md	/^### Syntax highlighting$/;"	S
+TODO	themes/minimal/TODO.md	/^# TODO$/;"	c
+Template Files	content/post/creating-a-new-theme.md	/^### Template Files$/;"	S
+Template Files	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Template Files$/;"	S
+Test the New Site	content/post/creating-a-new-theme.md	/^### Test the New Site$/;"	S
+Test the New Site	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Test the New Site$/;"	S
+The Home Page	content/post/creating-a-new-theme.md	/^### The Home Page$/;"	S
+The Home Page	content/post/creating-a-new-theme.md	/^#### The Home Page$/;"	t
+The Home Page	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### The Home Page$/;"	S
+The Home Page	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^#### The Home Page$/;"	t
+The Magic of Static	content/post/creating-a-new-theme.md	/^#### The Magic of Static$/;"	t
+The Magic of Static	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^#### The Magic of Static$/;"	t
+The Theme Development Cycle	content/post/creating-a-new-theme.md	/^## The Theme Development Cycle$/;"	s
+The Theme Development Cycle	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^## The Theme Development Cycle$/;"	s
+Update the Configuration File to Use the Theme	content/post/creating-a-new-theme.md	/^### Update the Configuration File to Use the Theme$/;"	S
+Update the Configuration File to Use the Theme	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Update the Configuration File to Use the Theme$/;"	S
+Update the Default Single Template to Use the Partials	content/post/creating-a-new-theme.md	/^### Update the Default Single Template to Use the Partials$/;"	S
+Update the Default Single Template to Use the Partials	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Update the Default Single Template to Use the Partials$/;"	S
+Update the Home Page Template	content/post/creating-a-new-theme.md	/^## Update the Home Page Template$/;"	s
+Update the Home Page Template	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^## Update the Home Page Template$/;"	s
+Update the Home Page Template to Use the Partials	content/post/creating-a-new-theme.md	/^### Update the Home Page Template to Use the Partials$/;"	S
+Update the Home Page Template to Use the Partials	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^### Update the Home Page Template to Use the Partials$/;"	S
+Update the Template File	content/post/creating-a-new-theme.md	/^#### Update the Template File$/;"	t
+Update the Template File	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^#### Update the Template File$/;"	t
+Usage	content/post/migrate-from-jekyll.md	/^### Usage$/;"	S
+Usage	themes/minimal/exampleSite/content/post/migrate-from-jekyll.md	/^### Usage$/;"	S
+Using Content (page) Parameters	content/post/goisforlovers.md	/^## Using Content (page) Parameters$/;"	s
+Using Content (page) Parameters	themes/minimal/exampleSite/content/post/goisforlovers.md	/^## Using Content (page) Parameters$/;"	s
+Using Site (config) Parameters	content/post/goisforlovers.md	/^## Using Site (config) Parameters$/;"	s
+Using Site (config) Parameters	themes/minimal/exampleSite/content/post/goisforlovers.md	/^## Using Site (config) Parameters$/;"	s
+Variables	content/post/goisforlovers.md	/^## Variables$/;"	s
+Variables	themes/minimal/exampleSite/content/post/goisforlovers.md	/^## Variables$/;"	s
+a.icon:hover	themes/minimal/static/css/main.css	/^a.icon:hover {$/;"	c
+a:hover	themes/minimal/static/css/main.css	/^a:hover {$/;"	s
+a:link	themes/minimal/static/css/main.css	/^a:link, a:visited {$/;"	s
+a:visited	themes/minimal/static/css/main.css	/^a:link, a:visited {$/;"	s
+body	themes/minimal/static/css/main.css	/^body {$/;"	s
+body	themes/minimal/static/css/main.css	/^html, body {$/;"	s
+description: What is Hugo?	content/about.md	/^description: What is Hugo?$/;"	s
+description: What is Hugo?	themes/minimal/exampleSite/content/about.md	/^description: What is Hugo?$/;"	s
+draft: false	content/post/creating-a-new-theme.md	/^draft: false$/;"	s
+draft: false	content/post/goisforlovers.md	/^draft: false$/;"	s
+draft: false	content/post/hugoisforlovers.md	/^draft: false$/;"	s
+draft: false	content/post/migrate-from-jekyll.md	/^draft: false$/;"	s
+draft: false	content/project/project1.md	/^draft: false$/;"	s
+draft: false	content/project/project2.md	/^draft: false$/;"	s
+draft: false	content/project/project3.md	/^draft: false$/;"	s
+draft: false	content/project/project4.md	/^draft: false$/;"	s
+draft: false	themes/minimal/exampleSite/content/post/creating-a-new-theme.md	/^draft: false$/;"	s
+draft: false	themes/minimal/exampleSite/content/post/goisforlovers.md	/^draft: false$/;"	s
+draft: false	themes/minimal/exampleSite/content/post/hugoisforlovers.md	/^draft: false$/;"	s
+draft: false	themes/minimal/exampleSite/content/post/migrate-from-jekyll.md	/^draft: false$/;"	s
+draft: false	themes/minimal/exampleSite/content/project/project1.md	/^draft: false$/;"	s
+draft: false	themes/minimal/exampleSite/content/project/project2.md	/^draft: false$/;"	s
+draft: false	themes/minimal/exampleSite/content/project/project3.md	/^draft: false$/;"	s
+draft: false	themes/minimal/exampleSite/content/project/project4.md	/^draft: false$/;"	s
+draft: true	themes/minimal/archetypes/default.md	/^draft: true$/;"	s
+draft: true	themes/minimal/archetypes/post.md	/^draft: true$/;"	s
+draft: true	themes/minimal/archetypes/project.md	/^draft: true$/;"	s
+footer	themes/minimal/static/css/main.css	/^footer {$/;"	s
+html	themes/minimal/static/css/main.css	/^html, body {$/;"	s
+img	themes/minimal/static/css/main.css	/^img {$/;"	s
+main	themes/minimal/static/css/main.css	/^main {$/;"	s
+{{ .Site.Title }}	themes/minimal/layouts/index.html	/^        <h1>{{ .Site.Title }}<\/h1>$/;"	h
+{{ .Title }}	themes/minimal/layouts/_default/list.html	/^    <h2>{{ .Title }}<\/h2>$/;"	i
+{{ .Title }}	themes/minimal/layouts/_default/single.html	/^        <h2>{{ .Title }}<\/h2>$/;"	i
+{{ .Title }}	themes/minimal/layouts/_default/terms.html	/^    <h2>{{ .Title }}<\/h2>$/;"	i
+{{ .Title }}	themes/minimal/layouts/post/single.html	/^        <h2>{{ .Title }}<\/h2>$/;"	i
+{{ markdownify .Site.Params.Description }}	themes/minimal/layouts/index.html	/^        <h2>{{ markdownify .Site.Params.Description }}<\/h2>$/;"	i
+¯\\_(ツ)_/¯	themes/minimal/layouts/404.html	/^        <h1>¯\\_(ツ)_\/¯<\/h1>$/;"	h
